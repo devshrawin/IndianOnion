@@ -1,0 +1,167 @@
+{
+  "date": "2026-09-06",
+  "publishedAt": "2026-09-06T07:11:20.678Z",
+  "topicKey": "cricket",
+  "headline": "Nation Divided As Citizens Start Naming Their Household Appliances After Political Slogans",
+  "slug": "nation-divided-appliances-political-slogans",
+  "body": "“My pressure cooker is now officially branded the ‘Anti-National Steamer,’ so every time the whistle blows, I feel like I’m participating in a high-stakes national debate,” said a local accountant while scrubbing a lid.\n\n“I’ve started labeling my ceiling fan the ‘Globalist Wind-Machine,’ and honestly, it keeps the room quite chilly, though the debates in my living room have become entirely unbearable,” remarked a college student living in a hostel.\n\n“My neighbor tried to tell me that my refrigerator is a ‘Dimagi Toaster’ because it keeps the milk too cold, and now we haven’t spoken since last Tuesday,” noted a neighborhood grocery shopkeeper.\n\n“I find it incredibly liberating to just label my toaster a ‘Policy Reformer’ and be done with it; at least it actually manages to brown the bread, unlike the real thing,” admitted a retired software engineer.\n\n“The real tragedy is that my vacuum cleaner is named after a major political shift, and it’s started refusing to pick up dust from any corner that doesn't align with its core ideology,” said a local resident while sighing at a mess.",
+  "caption": "From kitchen appliances to ceiling fans, everything is getting a political makeover. Are you picking sides, or just waiting for the toast to pop? #Politics #HomeDecor #Satire (satire)",
+  "igHook": "What’s the most ridiculous name you’ve given an appliance in your house?",
+  "imagePrompt": "A close-up shot of a modern kitchen appliance with a handwritten masking tape label stuck on it in a residential kitchen setting.",
+  "sourceHeadline": {
+    "title": "CJP slams PM Modi for reviving ‘Dimagi Naxal’ remark at SRCC: ‘Give hope, not stupid labels’ | India News",
+    "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOUmNxR0JxVUxHenNjOHl1R0t3cFV1X0pHRnM3TzBjWXhDSkx0NGM1OERXR0xEWUpIWTM0UmRMVU1JaUhsQlBhUXdRVFlQTVVRTkR5bElvcTViRVJBQzhIM3lSZzZnemxUWWJjUnYtRVdRZERYNHdRTmF2Tm1uM0QzSEp2UEF6VkM5UDhPU3d6UzcxVzktU0Y4a29uaXgyZC00ejduMGVQVVV4OEREVFhnTkxrU3RoeUlJbW50Uk44QVZZMUdKV3o4Nl9MLVNTUnNEVFAwZlhKOWtXZkNrVmRNYW9LN1R4SVdh0gHuAUFVX3lxTFBxX2lKcjB3NXZMc2F5c0hIVnE0WjZRWlNlVW15YmN4cW9HLWJpbVZoeFRfYllRMHRIbFNoSms1WXhpajlsQ3d3Q1l0aVc3X3BiVkZfVFNHNDFSZWlxbFVKT3B1U1BGYjJCSmUtTW1RRzhHT0ZmZ0V4WnlFMG9YSUw5WGRQOE14d0NrTndlOVNaUWlac1FmQjJBOTcyOUhhaUdIMDBsdHZFZUVZaUs2Nk5IVzFvNVUwOWdhbGdTaHNFSVBSdm9hekhraVppRUE0UFpEekhLU2l2d2RLRldOR2tfaE53N3Y0bkRqQlBDM0E?oc=5",
+    "pubDate": "Sun, 06 Sep 2026 03:43:04 GMT"
+  },
+  "judgeVerdict": {
+    "scores": [
+      {
+        "index": 0,
+        "surprise": 6,
+        "specificity": 7,
+        "structure": 8,
+        "punchiness": 7,
+        "warmth": 8,
+        "freshness": 7,
+        "total": 43
+      },
+      {
+        "index": 1,
+        "surprise": 4,
+        "specificity": 5,
+        "structure": 6,
+        "punchiness": 5,
+        "warmth": 4,
+        "freshness": 3,
+        "total": 27
+      },
+      {
+        "index": 2,
+        "surprise": 5,
+        "specificity": 5,
+        "structure": 5,
+        "punchiness": 5,
+        "warmth": 4,
+        "freshness": 3,
+        "total": 27
+      },
+      {
+        "index": 3,
+        "surprise": 5,
+        "specificity": 5,
+        "structure": 6,
+        "punchiness": 5,
+        "warmth": 6,
+        "freshness": 4,
+        "total": 31
+      },
+      {
+        "index": 4,
+        "surprise": 5,
+        "specificity": 5,
+        "structure": 6,
+        "punchiness": 5,
+        "warmth": 5,
+        "freshness": 3,
+        "total": 29
+      },
+      {
+        "index": 5,
+        "surprise": 4,
+        "specificity": 5,
+        "structure": 6,
+        "punchiness": 5,
+        "warmth": 4,
+        "freshness": 3,
+        "total": 27
+      },
+      {
+        "index": 6,
+        "surprise": 4,
+        "specificity": 5,
+        "structure": 6,
+        "punchiness": 5,
+        "warmth": 4,
+        "freshness": 3,
+        "total": 27
+      },
+      {
+        "index": 7,
+        "surprise": 7,
+        "specificity": 7,
+        "structure": 8,
+        "punchiness": 7,
+        "warmth": 8,
+        "freshness": 6,
+        "total": 43
+      },
+      {
+        "index": 8,
+        "surprise": 5,
+        "specificity": 5,
+        "structure": 6,
+        "punchiness": 5,
+        "warmth": 4,
+        "freshness": 4,
+        "total": 29
+      },
+      {
+        "index": 9,
+        "surprise": 4,
+        "specificity": 5,
+        "structure": 5,
+        "punchiness": 5,
+        "warmth": 5,
+        "freshness": 3,
+        "total": 27
+      },
+      {
+        "index": 10,
+        "surprise": 4,
+        "specificity": 5,
+        "structure": 6,
+        "punchiness": 5,
+        "warmth": 4,
+        "freshness": 3,
+        "total": 27
+      },
+      {
+        "index": 11,
+        "surprise": 4,
+        "specificity": 5,
+        "structure": 6,
+        "punchiness": 5,
+        "warmth": 4,
+        "freshness": 3,
+        "total": 27
+      },
+      {
+        "index": 12,
+        "surprise": 5,
+        "specificity": 6,
+        "structure": 6,
+        "punchiness": 5,
+        "warmth": 6,
+        "freshness": 3,
+        "total": 31
+      },
+      {
+        "index": 13,
+        "surprise": 4,
+        "specificity": 6,
+        "structure": 6,
+        "punchiness": 5,
+        "warmth": 4,
+        "freshness": 3,
+        "total": 28
+      }
+    ],
+    "winnerIndex": 0,
+    "reasoning": "Candidate 0 provides the most grounded and absurd premise, successfully turning a common social tension (political division) into a domestic ritual. It feels fresh compared to the deluge of 'government mandates policy' stories, offering a warmer, more relatable brand of humor centered on kitchen appliances rather than just another layer of cold bureaucracy."
+  },
+  "safetyVerdict": {
+    "verdict": "pass",
+    "reasoning": "The article uses anonymous, generic archetypes to satirize political polarization without targeting specific real individuals, religious groups, or castes. The image prompt is generic and avoids sensitive content or real-world branding.",
+    "flaggedIssues": []
+  }
+}
