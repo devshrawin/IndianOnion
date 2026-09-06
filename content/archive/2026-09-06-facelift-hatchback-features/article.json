@@ -1,0 +1,167 @@
+{
+  "date": "2026-09-06",
+  "publishedAt": "2026-09-06T17:44:41.048Z",
+  "topicKey": "trending-news",
+  "headline": "5 Features Included In The New Facelift Of My 2012 Used Hatchback",
+  "slug": "facelift-hatchback-features",
+  "body": "1. An integrated 'Optimism Sensor' that automatically recalibrates the fuel gauge to show a full tank whenever you are running late for work.\n2. A secondary, non-functional steering wheel located in the backseat to keep toddlers occupied during long highway gridlocks.\n3. A built-in document shredder under the passenger seat that instantly destroys expired insurance papers and grocery receipts from 2018.\n4. Tactile-feedback door handles that vibrate aggressively to remind you that you definitely forgot to lock the house door before leaving.\n5. A 'Mood Lighting' console that cycles through varying shades of 'Anxiety Blue' and 'Corporate Dead-End Grey' based on the current volume of honking outside.",
+  "caption": "Forget the official brochure. My 12-year-old hatchback just got a spiritual update, and honestly, the anxiety-sensing lights are a game changer. Which feature do you need in your daily commute? (satire) #CarLife #DrivingInIndia #Facelift",
+  "igHook": "Would you pay extra for an anxiety-sensing dashboard, or is your commute already stressful enough?",
+  "imagePrompt": "A close-up interior view of a slightly worn-out car dashboard with a focus on the steering wheel and a messy console, lit by soft afternoon sunlight.",
+  "sourceHeadline": {
+    "title": "Maruti Baleno Facelift: Top 5 Highlights",
+    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE50VzhGWE9XZnVvZ1V3bDJQdVBVTGpzcDdzdFBxTGRVd055U1NpdXFvQ0w2OGVXME92V0VVYU94RG5ySVZKVGxGLVlWUWg2Ulg0Y2JZelJBcll6dTdSdlpDdVRMcm5CN2kyX3FtM3JTeXlfUEJ4VEFGVg?oc=5",
+    "pubDate": "Sun, 06 Sep 2026 07:44:52 GMT"
+  },
+  "judgeVerdict": {
+    "scores": [
+      {
+        "index": 0,
+        "surprise": 5,
+        "specificity": 6,
+        "structure": 6,
+        "punchiness": 5,
+        "warmth": 6,
+        "freshness": 4,
+        "total": 32
+      },
+      {
+        "index": 1,
+        "surprise": 6,
+        "specificity": 7,
+        "structure": 6,
+        "punchiness": 6,
+        "warmth": 7,
+        "freshness": 4,
+        "total": 36
+      },
+      {
+        "index": 2,
+        "surprise": 5,
+        "specificity": 6,
+        "structure": 5,
+        "punchiness": 5,
+        "warmth": 6,
+        "freshness": 4,
+        "total": 31
+      },
+      {
+        "index": 3,
+        "surprise": 5,
+        "specificity": 5,
+        "structure": 5,
+        "punchiness": 5,
+        "warmth": 6,
+        "freshness": 4,
+        "total": 30
+      },
+      {
+        "index": 4,
+        "surprise": 6,
+        "specificity": 6,
+        "structure": 6,
+        "punchiness": 6,
+        "warmth": 6,
+        "freshness": 4,
+        "total": 34
+      },
+      {
+        "index": 5,
+        "surprise": 6,
+        "specificity": 7,
+        "structure": 6,
+        "punchiness": 6,
+        "warmth": 5,
+        "freshness": 4,
+        "total": 34
+      },
+      {
+        "index": 6,
+        "surprise": 6,
+        "specificity": 7,
+        "structure": 6,
+        "punchiness": 6,
+        "warmth": 7,
+        "freshness": 4,
+        "total": 36
+      },
+      {
+        "index": 7,
+        "surprise": 7,
+        "specificity": 8,
+        "structure": 7,
+        "punchiness": 6,
+        "warmth": 8,
+        "freshness": 5,
+        "total": 41
+      },
+      {
+        "index": 8,
+        "surprise": 5,
+        "specificity": 6,
+        "structure": 6,
+        "punchiness": 5,
+        "warmth": 5,
+        "freshness": 4,
+        "total": 31
+      },
+      {
+        "index": 9,
+        "surprise": 6,
+        "specificity": 8,
+        "structure": 6,
+        "punchiness": 6,
+        "warmth": 7,
+        "freshness": 4,
+        "total": 37
+      },
+      {
+        "index": 10,
+        "surprise": 6,
+        "specificity": 6,
+        "structure": 6,
+        "punchiness": 6,
+        "warmth": 6,
+        "freshness": 4,
+        "total": 34
+      },
+      {
+        "index": 11,
+        "surprise": 5,
+        "specificity": 6,
+        "structure": 6,
+        "punchiness": 5,
+        "warmth": 5,
+        "freshness": 4,
+        "total": 31
+      },
+      {
+        "index": 12,
+        "surprise": 6,
+        "specificity": 7,
+        "structure": 6,
+        "punchiness": 6,
+        "warmth": 7,
+        "freshness": 4,
+        "total": 36
+      },
+      {
+        "index": 13,
+        "surprise": 6,
+        "specificity": 7,
+        "structure": 6,
+        "punchiness": 6,
+        "warmth": 6,
+        "freshness": 4,
+        "total": 35
+      }
+    ],
+    "winnerIndex": 7,
+    "reasoning": "Candidate 7 wins by grounding the absurd features in the specific, relatable reality of a 'used 2012 hatchback' rather than a generic new car. The inclusion of details like the secondary steering wheel for toddlers and shredding expired 2018 receipts creates a vivid, warm, and distinctly local image that avoids the 'AI slop' tendency to just list tropes about existential dread."
+  },
+  "safetyVerdict": {
+    "verdict": "pass",
+    "reasoning": "The article is a harmless, relatable piece of satire about aging vehicles and daily commuting. It does not name any real individuals, target protected groups, or make defamatory claims.",
+    "flaggedIssues": []
+  }
+}
