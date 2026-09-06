@@ -1,0 +1,167 @@
+{
+  "date": "2026-09-06",
+  "publishedAt": "2026-09-06T09:39:06.127Z",
+  "topicKey": "trending-news",
+  "headline": "ISRO Employees Begin Tagging Rocket Components With 'Personal Belongings' Stickers To Prevent Corporate Auction",
+  "slug": "isro-employees-sticker-protest",
+  "body": "Q: We are standing outside the launch facility where employees have started a unique protest. Can you explain why every satellite currently on the assembly line is covered in neon sticky notes?\n\nA: It’s simple. If the management wants to privatize the hardware, we want them to know exactly which thruster was polished by which junior engineer. I have my name on the cryogenic tank, and my colleague from the propulsion division has put a 'Not For Sale - Property of Ravi' sticker on the main liquid booster.\n\nQ: Surely the administration won't recognize these handwritten labels as legal property rights?\n\nA: That is precisely the point. If they try to bundle our research into a private IPO, they’ll have to peel off 40,000 individual stickers first. We have also started naming the drones after our childhood pets. Good luck explaining to a billionaire investor why he’s buying a 'Rocketship Fluffy' instead of a strategic aerospace asset.\n\nQ: Has the chairman responded to these labeling efforts?\n\nA: Not officially, but I did see a senior director trying to scrape a 'Property of Sumit' label off a telemetry sensor with a damp cloth earlier. He failed. The glue we use for space-grade gaskets is far stronger than the resolve of the procurement department.",
+  "caption": "Aerospace engineers take a 'hands-on' approach to property rights at the national space agency. Stick it to the man, literally. #ISRO #SpaceResearch #Protest #OfficeLife (satire)",
+  "igHook": "Would you start labeling your office desk to stop the company from selling it?",
+  "imagePrompt": "A close-up shot of a metallic, high-tech aerospace component in a clean, brightly lit laboratory, featuring a bright neon sticky note stuck to the side with handwritten text.",
+  "sourceHeadline": {
+    "title": "Thousands of ISRO employees question fate, write to chairman amid privatisation push | India News",
+    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNUVJIUTUwYXZBaWd4WEEzQ2xxOHlGVS1tOExJWlpyMFRQRVlmdHVDY0tHakJ6QWRzV2J4Y2dQcFcxWkpnX3ktWE11TWlwNC1TR0NYRXloTlVpbHFoUXNSUFhXV3RGT251RmprbmlJemtHa2NTU25KZEZWOUpmcDZpaGtSVlBOZ2dfcXlIY0JQeTVhb1A1bE9GeUFpcFlpMHl2Tk5zZER3M3RSWDRDcEdidVBJNE9oQXoyZjNiR0RRZnhKZVpyTGRpbTdrMnQ5WHFLbmVvRg?oc=5",
+    "pubDate": "Sun, 06 Sep 2026 01:14:04 GMT"
+  },
+  "judgeVerdict": {
+    "scores": [
+      {
+        "index": 0,
+        "surprise": 4,
+        "specificity": 4,
+        "structure": 5,
+        "punchiness": 4,
+        "warmth": 6,
+        "freshness": 4,
+        "total": 27
+      },
+      {
+        "index": 1,
+        "surprise": 5,
+        "specificity": 5,
+        "structure": 6,
+        "punchiness": 5,
+        "warmth": 7,
+        "freshness": 5,
+        "total": 33
+      },
+      {
+        "index": 2,
+        "surprise": 4,
+        "specificity": 4,
+        "structure": 5,
+        "punchiness": 4,
+        "warmth": 6,
+        "freshness": 5,
+        "total": 28
+      },
+      {
+        "index": 3,
+        "surprise": 6,
+        "specificity": 7,
+        "structure": 7,
+        "punchiness": 6,
+        "warmth": 8,
+        "freshness": 7,
+        "total": 41
+      },
+      {
+        "index": 4,
+        "surprise": 3,
+        "specificity": 3,
+        "structure": 4,
+        "punchiness": 3,
+        "warmth": 5,
+        "freshness": 3,
+        "total": 21
+      },
+      {
+        "index": 5,
+        "surprise": 3,
+        "specificity": 4,
+        "structure": 4,
+        "punchiness": 3,
+        "warmth": 5,
+        "freshness": 3,
+        "total": 22
+      },
+      {
+        "index": 6,
+        "surprise": 3,
+        "specificity": 4,
+        "structure": 4,
+        "punchiness": 3,
+        "warmth": 5,
+        "freshness": 3,
+        "total": 22
+      },
+      {
+        "index": 7,
+        "surprise": 3,
+        "specificity": 3,
+        "structure": 4,
+        "punchiness": 3,
+        "warmth": 4,
+        "freshness": 3,
+        "total": 20
+      },
+      {
+        "index": 8,
+        "surprise": 4,
+        "specificity": 4,
+        "structure": 4,
+        "punchiness": 3,
+        "warmth": 5,
+        "freshness": 3,
+        "total": 23
+      },
+      {
+        "index": 9,
+        "surprise": 3,
+        "specificity": 3,
+        "structure": 4,
+        "punchiness": 3,
+        "warmth": 4,
+        "freshness": 3,
+        "total": 20
+      },
+      {
+        "index": 10,
+        "surprise": 4,
+        "specificity": 5,
+        "structure": 5,
+        "punchiness": 4,
+        "warmth": 6,
+        "freshness": 4,
+        "total": 28
+      },
+      {
+        "index": 11,
+        "surprise": 5,
+        "specificity": 5,
+        "structure": 5,
+        "punchiness": 5,
+        "warmth": 7,
+        "freshness": 5,
+        "total": 32
+      },
+      {
+        "index": 12,
+        "surprise": 3,
+        "specificity": 3,
+        "structure": 4,
+        "punchiness": 3,
+        "warmth": 4,
+        "freshness": 3,
+        "total": 20
+      },
+      {
+        "index": 13,
+        "surprise": 4,
+        "specificity": 4,
+        "structure": 4,
+        "punchiness": 4,
+        "warmth": 5,
+        "freshness": 4,
+        "total": 25
+      }
+    ],
+    "winnerIndex": 3,
+    "reasoning": "Candidate 3 features a highly specific and vivid image of engineers using 'space-grade' adhesive to thwart corporate buyouts, which feels both absurd and endearingly human. It avoids the tired 'gig economy/crowdfunding' trope found in almost all other entries, opting for a physical, tactile act of resistance that creates a concrete mental image."
+  },
+  "safetyVerdict": {
+    "verdict": "pass",
+    "reasoning": "The article uses generic, common names ('Ravi', 'Sumit') in a fictional, satirical context that does not target specific real individuals or violate any safety guidelines. The image prompt is generic and avoids real-world branding or identifiable persons.",
+    "flaggedIssues": []
+  }
+}
