@@ -1,0 +1,167 @@
+{
+  "date": "2026-09-07",
+  "publishedAt": "2026-09-07T02:00:12.766Z",
+  "topicKey": "trending-news",
+  "headline": "Shipping company CEO admits to using Strait of Hormuz corridor primarily as high-speed shortcut to deliver late-night biryani",
+  "slug": "hormuz-biryani-shortcut",
+  "body": "The regional logistics director confirmed that the new transit agreement will focus exclusively on maintaining sub-45 minute delivery windows for oceanic spice shipments, effectively prioritizing chicken dum biryani over standard petroleum exports. Maritime radar logs indicate that several container ships have already been observed making unauthorized detours specifically to drop off cooling raita at mid-sea refueling stations.",
+  "caption": "When the craving hits, even international shipping routes bow down. Who knew the Strait of Hormuz was just an overpriced food delivery app for the ocean? #BiryaniLife #MaritimeLogistics #FoodDelivery #StraitOfHormuz (satire)",
+  "igHook": "Tag a friend who would literally risk a global trade crisis just to get their favorite biryani delivered on time.",
+  "imagePrompt": "A wide-angle, slightly blurred long-distance shot of a massive container ship moving through a narrow, hazy sea strait at dusk, with standard maritime navigational lights visible.",
+  "sourceHeadline": {
+    "title": "Iran says new Strait of Hormuz corridor agreement to be signed in coming days",
+    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOVHlTcGthbHBhVmZ1clFOS1ZjOXVIRk9FQ2NPcE5WaHF2OTZzcEMzTzRvclQ0WVZENmJIX0Zybkd2VFZpUDF6cEJ1YUpfLVBuR1RaOXIwVW5IajBkMmtGQXBfZUxpMFBMckN1WTJvX1o2cmpWUmxlMFZyR3lIcGNiV2E2SVdBdmRWVkJEVXpZTlU4SndRaTBRTXp1RjlvWjlnNlI0MS1vUW1HN1IxbXhqQTBycWx6Mi1MRHF6c0xvdkMtX2dEMFNLNE5RV2JvR0J30gHWAUFVX3lxTE5YZGJIX0JVaW5IZ05wTU5EYmJaYU1Ndkt6TE5fNHJ3ZzRRQ0dtUW4xSzR6amR5QjlheEdZUUZVVXpDNEV1QUMzTkppUFpaX1JuQ1FQeC1DNDJQSDBBX3BSeE1ySnBwZjJJcW1nSUxwQlgwb0lfV0V2NWk1UkVlTENIbm5UemRnd05RTlphN2g3UHIySF94ak0zYXE5UDNzT2xZT1JiMDNyejBPWkVuLWQyeF9XVUg5MGdVV3QyUWhpekxqTUViV052aFNRNUg3d2R3ZU50aGc?oc=5",
+    "pubDate": "Sun, 06 Sep 2026 19:39:00 GMT"
+  },
+  "judgeVerdict": {
+    "scores": [
+      {
+        "index": 0,
+        "surprise": 6,
+        "specificity": 8,
+        "structure": 8,
+        "punchiness": 7,
+        "warmth": 7,
+        "freshness": 7,
+        "total": 43
+      },
+      {
+        "index": 1,
+        "surprise": 5,
+        "specificity": 6,
+        "structure": 5,
+        "punchiness": 5,
+        "warmth": 6,
+        "freshness": 6,
+        "total": 33
+      },
+      {
+        "index": 2,
+        "surprise": 5,
+        "specificity": 5,
+        "structure": 5,
+        "punchiness": 6,
+        "warmth": 4,
+        "freshness": 6,
+        "total": 31
+      },
+      {
+        "index": 3,
+        "surprise": 5,
+        "specificity": 5,
+        "structure": 5,
+        "punchiness": 5,
+        "warmth": 5,
+        "freshness": 5,
+        "total": 30
+      },
+      {
+        "index": 4,
+        "surprise": 4,
+        "specificity": 5,
+        "structure": 5,
+        "punchiness": 4,
+        "warmth": 4,
+        "freshness": 5,
+        "total": 27
+      },
+      {
+        "index": 5,
+        "surprise": 6,
+        "specificity": 6,
+        "structure": 6,
+        "punchiness": 6,
+        "warmth": 7,
+        "freshness": 7,
+        "total": 38
+      },
+      {
+        "index": 6,
+        "surprise": 5,
+        "specificity": 5,
+        "structure": 5,
+        "punchiness": 5,
+        "warmth": 5,
+        "freshness": 6,
+        "total": 31
+      },
+      {
+        "index": 7,
+        "surprise": 6,
+        "specificity": 6,
+        "structure": 6,
+        "punchiness": 6,
+        "warmth": 7,
+        "freshness": 6,
+        "total": 37
+      },
+      {
+        "index": 8,
+        "surprise": 4,
+        "specificity": 4,
+        "structure": 5,
+        "punchiness": 4,
+        "warmth": 5,
+        "freshness": 4,
+        "total": 26
+      },
+      {
+        "index": 9,
+        "surprise": 6,
+        "specificity": 7,
+        "structure": 7,
+        "punchiness": 6,
+        "warmth": 7,
+        "freshness": 6,
+        "total": 39
+      },
+      {
+        "index": 10,
+        "surprise": 7,
+        "specificity": 7,
+        "structure": 7,
+        "punchiness": 7,
+        "warmth": 6,
+        "freshness": 7,
+        "total": 41
+      },
+      {
+        "index": 11,
+        "surprise": 5,
+        "specificity": 5,
+        "structure": 5,
+        "punchiness": 5,
+        "warmth": 5,
+        "freshness": 5,
+        "total": 30
+      },
+      {
+        "index": 12,
+        "surprise": 8,
+        "specificity": 9,
+        "structure": 8,
+        "punchiness": 8,
+        "warmth": 8,
+        "freshness": 8,
+        "total": 49
+      },
+      {
+        "index": 13,
+        "surprise": 5,
+        "specificity": 5,
+        "structure": 5,
+        "punchiness": 5,
+        "warmth": 5,
+        "freshness": 5,
+        "total": 30
+      }
+    ],
+    "winnerIndex": 12,
+    "reasoning": "Candidate 12 stands out by grounding the absurdity of high-stakes international shipping in the mundane, relatable obsession with food delivery. Its specific detail—dropping off 'cooling raita' at refueling stations—provides a vivid, humorous mental image that avoids the 'AI slop' trap of over-explaining the joke, and it feels distinct from the existing list of institutional mandates."
+  },
+  "safetyVerdict": {
+    "verdict": "pass",
+    "reasoning": "The article uses an absurd, fictional premise involving a generic 'CEO' and 'logistics director' without naming any real individuals or entities. It avoids sensitive topics, religious/caste-based content, and the image prompt describes a generic scene.",
+    "flaggedIssues": []
+  }
+}
