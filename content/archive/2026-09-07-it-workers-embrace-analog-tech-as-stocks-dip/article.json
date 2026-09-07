@@ -1,0 +1,167 @@
+{
+  "date": "2026-09-07",
+  "publishedAt": "2026-09-07T16:28:01.179Z",
+  "topicKey": "trending-news",
+  "headline": "Local IT Professionals Switch to Ancient Abacus to Counter Stock Market Slide",
+  "slug": "it-workers-embrace-analog-tech-as-stocks-dip",
+  "body": "“I’ve completely stopped logging into the trading dashboard because the red arrows were giving my goldfish anxiety, so I’ve started using my wooden abacus to track my portfolio,” says software engineer Rohan Mehra, staring intensely at a row of sliding beads.\n\n“The office server room is officially a ghost town, mostly because we realized we can calculate quarterly projections faster by tossing dried lentils into a brass bowl than by waiting for the cloud platform to refresh,” explains data analyst Sunita Rao while carefully sorting her pulses.\n\n“My client called me in a panic about the oil price surge, but I told him I’m strictly offline until I finish counting these seashells, which I believe currently value the firm at exactly three goats and a half-eaten sandwich,” notes freelance consultant Amit Varma.\n\n“It’s honestly more peaceful when the screen stays black; I just use the clicking sound of the abacus to lull myself into a state of financial zen while the rest of the building tries to figure out why the Wi-Fi is still off,” says office intern Priya Sethi.\n\n“Ever since we traded our laptops for stone tablets, my stress levels regarding the market volatility have plummeted, mostly because I can’t actually update the loss figures until I find a chisel,” remarks hardware technician Vikram Singh.",
+  "caption": "When the servers go down, the abacus comes out. Why stress over red lines when you can just count lentils instead? 📉🧮 #StockMarket #ITLife #MarketDip #AnalogFinance (satire)",
+  "igHook": "Tag the colleague who is definitely going to start using an abacus to calculate their next bonus.",
+  "imagePrompt": "A close-up shot of a wooden abacus on a cluttered office desk next to a deactivated laptop, with an out-of-focus background of a typical modern tech office.",
+  "sourceHeadline": {
+    "title": "Indian stocks slip to six-week low as IT slides, oil worries mount",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPN28wNDdORG10X2Z2Tnl0OHduV3Q4T0IwNTJOWTlqUHhWQWxMa1RQYjE1ZDFfWkZhT3I4Z25yWXhHb1pseWNIYU85Nm9oM0dfZG9IYWNBeVcySDBfMnl2Tkd4aFdGWklMNDY1aDhPMnNrNTdMVl9vMWpvQlROUGtleDNBUHpYa1k4UzZCS2VFVGlxX0dnWjEwREYwUDNJYV9qbS1JdnZfU3NGZEFjOG1Bb1l6N1V6QQ?oc=5",
+    "pubDate": "Mon, 07 Sep 2026 02:27:00 GMT"
+  },
+  "judgeVerdict": {
+    "scores": [
+      {
+        "index": 0,
+        "surprise": 6,
+        "specificity": 7,
+        "structure": 8,
+        "punchiness": 7,
+        "warmth": 7,
+        "freshness": 4,
+        "total": 39
+      },
+      {
+        "index": 1,
+        "surprise": 5,
+        "specificity": 5,
+        "structure": 6,
+        "punchiness": 5,
+        "warmth": 6,
+        "freshness": 5,
+        "total": 32
+      },
+      {
+        "index": 2,
+        "surprise": 7,
+        "specificity": 7,
+        "structure": 8,
+        "punchiness": 7,
+        "warmth": 6,
+        "freshness": 6,
+        "total": 41
+      },
+      {
+        "index": 3,
+        "surprise": 6,
+        "specificity": 6,
+        "structure": 7,
+        "punchiness": 6,
+        "warmth": 7,
+        "freshness": 5,
+        "total": 37
+      },
+      {
+        "index": 4,
+        "surprise": 6,
+        "specificity": 5,
+        "structure": 6,
+        "punchiness": 5,
+        "warmth": 6,
+        "freshness": 5,
+        "total": 33
+      },
+      {
+        "index": 5,
+        "surprise": 6,
+        "specificity": 6,
+        "structure": 7,
+        "punchiness": 6,
+        "warmth": 5,
+        "freshness": 5,
+        "total": 35
+      },
+      {
+        "index": 6,
+        "surprise": 7,
+        "specificity": 8,
+        "structure": 8,
+        "punchiness": 7,
+        "warmth": 7,
+        "freshness": 6,
+        "total": 43
+      },
+      {
+        "index": 7,
+        "surprise": 5,
+        "specificity": 6,
+        "structure": 6,
+        "punchiness": 5,
+        "warmth": 5,
+        "freshness": 5,
+        "total": 32
+      },
+      {
+        "index": 8,
+        "surprise": 6,
+        "specificity": 7,
+        "structure": 7,
+        "punchiness": 6,
+        "warmth": 6,
+        "freshness": 5,
+        "total": 37
+      },
+      {
+        "index": 9,
+        "surprise": 5,
+        "specificity": 6,
+        "structure": 6,
+        "punchiness": 5,
+        "warmth": 6,
+        "freshness": 4,
+        "total": 32
+      },
+      {
+        "index": 10,
+        "surprise": 7,
+        "specificity": 7,
+        "structure": 7,
+        "punchiness": 6,
+        "warmth": 5,
+        "freshness": 6,
+        "total": 38
+      },
+      {
+        "index": 11,
+        "surprise": 5,
+        "specificity": 6,
+        "structure": 6,
+        "punchiness": 5,
+        "warmth": 6,
+        "freshness": 4,
+        "total": 32
+      },
+      {
+        "index": 12,
+        "surprise": 5,
+        "specificity": 6,
+        "structure": 6,
+        "punchiness": 5,
+        "warmth": 5,
+        "freshness": 5,
+        "total": 32
+      },
+      {
+        "index": 13,
+        "surprise": 6,
+        "specificity": 6,
+        "structure": 6,
+        "punchiness": 6,
+        "warmth": 5,
+        "freshness": 5,
+        "total": 34
+      }
+    ],
+    "winnerIndex": 6,
+    "reasoning": "Candidate 6 succeeds by creating a specific, absurdly tactile image (counting seashells and lentils) that contrasts perfectly with the sterile, 'red arrow' world of IT and stock trading. It avoids the 'formulaic quote' trap by having characters describe their nonsensical tasks with earnest, deadpan professional seriousness, providing the perfect level of warmth and structural rhythm."
+  },
+  "safetyVerdict": {
+    "verdict": "pass",
+    "reasoning": "The article uses clearly fictional and absurd scenarios to satirize workplace culture and market anxiety. The individuals named appear to be generic placeholders rather than identifiable private individuals, and the image prompt is generic.",
+    "flaggedIssues": []
+  }
+}
