@@ -1,0 +1,167 @@
+{
+  "date": "2026-09-07",
+  "publishedAt": "2026-09-07T22:14:49.240Z",
+  "topicKey": "trending-news",
+  "headline": "Local Man Calculates He Can Now Boil Exactly 0.4 More Liters of Water Per Month Following LPG Booking Rule Change",
+  "slug": "lpg-boiling-math",
+  "body": "Ramesh Kumar, a resident of a small village outside Kanpur, spent Tuesday morning meticulously recalibrating his kitchen schedule after news broke that the LPG booking interval has been slashed from 45 days to 25. Armed with a scientific calculator and a half-eaten notebook, Kumar concluded that the 20-day reduction would allow his household to consume exactly 3.8% more fuel, enough to boil an additional 400 milliliters of water or warm one plate of leftover aloo-gobhi for precisely 42 seconds.\n\n\"It’s all about resource optimization,\" said Kumar, who has already begun drafting a new, highly complex flowchart for his family’s tea-drinking habits. \"Under the old system, we were living in a state of thermal deprivation, forced to ration our chai strength during the final week of the cycle. Now, with the buffer window significantly shortened, I can officially upgrade our evening tea from 'lukewarm infusion' to 'vaguely bubbling' by the 28th day of the month.\"\n\nDespite the excitement, local kitchen skeptics remain wary of the logistics. \"The challenge isn't the gas; it's the sheer speed of the delivery logistics now required,\" noted local grocery shopkeeper Suresh Verma, who has seen a 40% spike in villagers asking for 'pre-emptive booking' tokens. \"If everyone tries to maximize their new 25-day potential, we might see the delivery boy becoming a permanent fixture of our living room decor, essentially moving in with us just to handle the sheer velocity of these tank replacements.\"",
+  "caption": "Physics, math, and tea: A masterclass in rural resource management. Will your kitchen survive the new 25-day cycle? #LPG #Efficiency #ChaiLife #BudgetHacks (satire)",
+  "igHook": "How many extra cups of tea are you getting out of this new rule? Tag your kitchen math expert.",
+  "imagePrompt": "A close-up shot of a worn-out notebook filled with handwritten complex mathematical calculations and sketches of a gas stove, resting on a wooden kitchen table next to a steaming steel glass of tea.",
+  "sourceHeadline": {
+    "title": "LPG booking interval for rural consumers cut to 25 days from 45",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQX0NpVURoMXNwcDNlYVZOeEJJTDNTQzBRVmJQZE1zYUJPNlZ6LVJuYjdER0FqeFd4OGI5aGpVay1UTk1YbHJtT1RLWHR2dnZ6VTAtQXlGMy1HOU9tSjB6XzlDbGVoRllsT1ZCaFhfdFJJME9OR1RNTTdRbzJ5VElkSlNsNGhELVdPZ3FUTmRob09oXzRBTEowUU1PSEdzRHFfSkZkdlRWeXJJeVZMREgxMzZyNTV6YzlhM0JhaGRaTdIBxgFBVV95cUxPdWdWYll3S1ZKWjFSVjJoRl9HX0p5RlVtUTdUV1ZhbzlYZ29YcHF5RzhBazZXQmpuSUZUNnhzRnRDV0ZGRTRtY29STEppUjlTOVppUnZaVUlYQjlZc1VOQ0l2WkxpMF9HY0N5dWlsTDJpYnZFSEhQak0wU201WlhBMEtGNHBKdkV2UGVfUzR2U1ZUREFvOEtjUWhuTGpmY0ZQWldwWXROOWVwMmZrYW9zci1jQ3AtaF9SdmZZNlhqdUZ0Zms5anc?oc=5",
+    "pubDate": "Mon, 07 Sep 2026 10:33:17 GMT"
+  },
+  "judgeVerdict": {
+    "scores": [
+      {
+        "index": 0,
+        "surprise": 6,
+        "specificity": 8,
+        "structure": 8,
+        "punchiness": 7,
+        "warmth": 9,
+        "freshness": 7,
+        "total": 45
+      },
+      {
+        "index": 1,
+        "surprise": 5,
+        "specificity": 6,
+        "structure": 6,
+        "punchiness": 6,
+        "warmth": 7,
+        "freshness": 5,
+        "total": 35
+      },
+      {
+        "index": 2,
+        "surprise": 6,
+        "specificity": 7,
+        "structure": 8,
+        "punchiness": 7,
+        "warmth": 8,
+        "freshness": 6,
+        "total": 42
+      },
+      {
+        "index": 3,
+        "surprise": 6,
+        "specificity": 7,
+        "structure": 7,
+        "punchiness": 6,
+        "warmth": 8,
+        "freshness": 6,
+        "total": 40
+      },
+      {
+        "index": 4,
+        "surprise": 5,
+        "specificity": 6,
+        "structure": 6,
+        "punchiness": 5,
+        "warmth": 6,
+        "freshness": 5,
+        "total": 33
+      },
+      {
+        "index": 5,
+        "surprise": 6,
+        "specificity": 7,
+        "structure": 7,
+        "punchiness": 7,
+        "warmth": 8,
+        "freshness": 6,
+        "total": 41
+      },
+      {
+        "index": 6,
+        "surprise": 7,
+        "specificity": 7,
+        "structure": 8,
+        "punchiness": 8,
+        "warmth": 7,
+        "freshness": 7,
+        "total": 44
+      },
+      {
+        "index": 7,
+        "surprise": 5,
+        "specificity": 5,
+        "structure": 6,
+        "punchiness": 5,
+        "warmth": 6,
+        "freshness": 5,
+        "total": 32
+      },
+      {
+        "index": 8,
+        "surprise": 5,
+        "specificity": 6,
+        "structure": 7,
+        "punchiness": 6,
+        "warmth": 7,
+        "freshness": 5,
+        "total": 36
+      },
+      {
+        "index": 9,
+        "surprise": 6,
+        "specificity": 8,
+        "structure": 7,
+        "punchiness": 6,
+        "warmth": 7,
+        "freshness": 6,
+        "total": 40
+      },
+      {
+        "index": 10,
+        "surprise": 6,
+        "specificity": 7,
+        "structure": 7,
+        "punchiness": 6,
+        "warmth": 8,
+        "freshness": 6,
+        "total": 40
+      },
+      {
+        "index": 11,
+        "surprise": 6,
+        "specificity": 7,
+        "structure": 7,
+        "punchiness": 6,
+        "warmth": 8,
+        "freshness": 6,
+        "total": 40
+      },
+      {
+        "index": 12,
+        "surprise": 5,
+        "specificity": 6,
+        "structure": 7,
+        "punchiness": 5,
+        "warmth": 7,
+        "freshness": 5,
+        "total": 35
+      },
+      {
+        "index": 13,
+        "surprise": 7,
+        "specificity": 8,
+        "structure": 8,
+        "punchiness": 8,
+        "warmth": 8,
+        "freshness": 7,
+        "total": 46
+      }
+    ],
+    "winnerIndex": 13,
+    "reasoning": "Candidate 13 wins by taking a grounded, mundane absurdity—the math of household utility—and applying it to an impossible degree of precision (the '42 seconds' of aloo-gobhi warming). It avoids the repetitive 'relay race' or 'logistics hub' tropes found in the other candidates, offering a fresher, more character-driven take that balances satire with a warm, relatable domestic observation."
+  },
+  "safetyVerdict": {
+    "verdict": "pass",
+    "reasoning": "The article uses generic, archetypal names ('Ramesh Kumar', 'Suresh Verma') typical of satire and does not refer to real public figures or private individuals. The premise is clearly satirical, focusing on bureaucratic absurdity rather than any form of harm, hate speech, or defamation.",
+    "flaggedIssues": []
+  }
+}
