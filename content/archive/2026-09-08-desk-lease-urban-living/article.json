@@ -1,0 +1,163 @@
+{
+  "date": "2026-09-08",
+  "publishedAt": "2026-09-08T07:05:12.210Z",
+  "topicKey": "urban-life",
+  "headline": "I have successfully negotiated a formal rental lease for the space under my office desk to save on commuting costs",
+  "slug": "desk-lease-urban-living",
+  "body": "It started as a simple cost-cutting measure when my daily commute from the suburbs began exceeding the length of a feature-length film. Last month, I approached my HR manager with a bold proposal: instead of paying 40,000 rupees for a studio apartment I only visit to sleep in, I would pay 12,000 rupees to officially 'occupy' the 4x3 foot crawlspace beneath my workstation. \n\nMy desk-nest is surprisingly efficient. I have installed a memory-foam mat, a privacy curtain made of stacked copier paper boxes, and a portable steamer that allows me to prepare instant noodles using the office water cooler. The proximity to my laptop means I am officially the first person in the office every morning, which has earned me a 'Top Performer' badge and a significant bump in my annual bonus.\n\nSure, the janitorial staff occasionally sweeps around my sleeping bag during the midnight shift, but that’s a small price to pay for a forty-minute extension to my REM cycle. I have even managed to negotiate a secondary agreement for shared access to the server room for a monthly subscription fee, giving me a temperature-controlled walk-in closet. Why struggle with the local train during rush hour when your bed is already equipped with high-speed Wi-Fi and ergonomic cable management?",
+  "caption": "Living the corporate dream, literally. Who needs a house when you have under-desk storage? #OfficeLife #RealEstate #UrbanLiving #WorkLifeBalance (satire)",
+  "igHook": "Would you move into your office to skip the morning traffic jam?",
+  "imagePrompt": "A low-angle, dimly lit shot of a modern corporate office desk seen from underneath, showing a neatly organized makeshift sleeping area with a folded blanket and a charging station.",
+  "sourceHeadline": null,
+  "judgeVerdict": {
+    "scores": [
+      {
+        "index": 0,
+        "surprise": 6,
+        "specificity": 7,
+        "structure": 8,
+        "punchiness": 8,
+        "warmth": 7,
+        "freshness": 7,
+        "total": 43
+      },
+      {
+        "index": 1,
+        "surprise": 7,
+        "specificity": 8,
+        "structure": 8,
+        "punchiness": 8,
+        "warmth": 8,
+        "freshness": 8,
+        "total": 47
+      },
+      {
+        "index": 2,
+        "surprise": 5,
+        "specificity": 6,
+        "structure": 7,
+        "punchiness": 6,
+        "warmth": 5,
+        "freshness": 6,
+        "total": 35
+      },
+      {
+        "index": 3,
+        "surprise": 7,
+        "specificity": 7,
+        "structure": 8,
+        "punchiness": 7,
+        "warmth": 7,
+        "freshness": 8,
+        "total": 44
+      },
+      {
+        "index": 4,
+        "surprise": 6,
+        "specificity": 7,
+        "structure": 8,
+        "punchiness": 7,
+        "warmth": 6,
+        "freshness": 6,
+        "total": 40
+      },
+      {
+        "index": 5,
+        "surprise": 8,
+        "specificity": 8,
+        "structure": 8,
+        "punchiness": 8,
+        "warmth": 7,
+        "freshness": 8,
+        "total": 47
+      },
+      {
+        "index": 6,
+        "surprise": 7,
+        "specificity": 7,
+        "structure": 8,
+        "punchiness": 8,
+        "warmth": 8,
+        "freshness": 7,
+        "total": 45
+      },
+      {
+        "index": 7,
+        "surprise": 6,
+        "specificity": 7,
+        "structure": 7,
+        "punchiness": 7,
+        "warmth": 8,
+        "freshness": 6,
+        "total": 41
+      },
+      {
+        "index": 8,
+        "surprise": 6,
+        "specificity": 7,
+        "structure": 7,
+        "punchiness": 7,
+        "warmth": 8,
+        "freshness": 6,
+        "total": 41
+      },
+      {
+        "index": 9,
+        "surprise": 7,
+        "specificity": 7,
+        "structure": 7,
+        "punchiness": 7,
+        "warmth": 6,
+        "freshness": 7,
+        "total": 41
+      },
+      {
+        "index": 10,
+        "surprise": 6,
+        "specificity": 7,
+        "structure": 8,
+        "punchiness": 7,
+        "warmth": 7,
+        "freshness": 7,
+        "total": 42
+      },
+      {
+        "index": 11,
+        "surprise": 6,
+        "specificity": 8,
+        "structure": 8,
+        "punchiness": 7,
+        "warmth": 8,
+        "freshness": 6,
+        "total": 43
+      },
+      {
+        "index": 12,
+        "surprise": 6,
+        "specificity": 8,
+        "structure": 8,
+        "punchiness": 7,
+        "warmth": 8,
+        "freshness": 6,
+        "total": 43
+      },
+      {
+        "index": 13,
+        "surprise": 6,
+        "specificity": 7,
+        "structure": 7,
+        "punchiness": 7,
+        "warmth": 7,
+        "freshness": 6,
+        "total": 40
+      }
+    ],
+    "winnerIndex": 5,
+    "reasoning": "Candidate 5 provides the most specific and absurdly mundane logistical detail, grounding the joke in the relatable misery of corporate life without falling into the 'delivery app' trope repeated in multiple other submissions. It maintains a deadpan voice throughout and avoids the common AI pitfall of over-explaining the satire, instead allowing the image of the 'desk-nest' to carry the narrative."
+  },
+  "safetyVerdict": {
+    "verdict": "pass",
+    "reasoning": "The article uses an absurd, fictional premise about corporate life that does not name any real individuals, target protected groups, or make defamatory claims. The image prompt is generic and avoids real branding or identifiable persons.",
+    "flaggedIssues": []
+  }
+}
