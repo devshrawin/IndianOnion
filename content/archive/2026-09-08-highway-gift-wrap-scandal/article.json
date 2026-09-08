@@ -1,0 +1,167 @@
+{
+  "date": "2026-09-08",
+  "publishedAt": "2026-09-08T21:27:10.529Z",
+  "topicKey": "cricket",
+  "headline": "Highway Contractor Caught Paving The New Expressway With Unopened Gift-Wrapped Parcels To Meet Deadline",
+  "slug": "highway-gift-wrap-scandal",
+  "body": "Q: Mr. Rathore, as the lead consultant on the new expressway project, how exactly did your team manage to complete the final 150km stretch in record time?\n\nA: It was a logistical innovation, really. We found that asphalt takes too long to cure, so we transitioned to a structural material we had in surplus—namely, the five million unclaimed parcels sitting in the local courier warehouse.\n\nQ: Are you suggesting the smooth surface of the new highway is actually composed of bubble-wrap and cardboard boxes?\n\nA: Precisely. We taped them down with industrial-grade duct tape, covered them in a thin layer of glitter to mimic asphalt sheen, and inaugurated it before anyone noticed the indentation of a toaster-oven box under the high-speed lane.\n\nQ: And how do you expect the road to hold up when heavy trucks begin driving over these shipments?\n\nA: It’s purely acoustic. The sound of the packages popping provides a delightful, percussive rhythm for the driver, and if the parcel contains a fragile item like an antique vase, the suspension of a modern SUV acts as a natural packaging buffer.",
+  "caption": "New expressway or giant parcel delivery service? The lines have blurred for local commuters. #Expressway #RoadInfrastructure #LogisticsFail #InfrastructureUpgrade (satire)",
+  "igHook": "Would you trust a highway made out of bubble wrap and cardboard?",
+  "imagePrompt": "A wide, deserted multi-lane concrete highway stretching toward the horizon under a bright blue sky, with no traffic visible and orange construction cones scattered along the shoulder.",
+  "sourceHeadline": {
+    "title": "PM Modi Inaugurates 150 Km Key Stretch Of Vadodara-Mumbai Expressway",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMTZwQUI5dXo5cmY0NVNwdUhoY0d5YkVCdXcwRnRvcVZIRkJwZUx2blJ0djNuR1FTU0VlWXVkdnFzdTRobVBlTHN0VngyVmRjMFVnWXJHRmdnbjNVVFo5YldEWGNvMkQzVm1qb2FuOGU2eUtKV2tJX2hCWTBkSzg4XzIzSE44QXNERUtXcVVEWkFHdEtRSzc1dGwtQVhUMlp3MEpaTE1EbzZtbXRYTGfSAbYBQVVfeXFMUGlraVRfd0VBOU5KTzVlMHRDa0pVRE9pZ3dnUEJkRW1jYWJMQm91VklaOFpNcTlwZnhKNHNhb3EyQ1lsZ3kyX2U4c2dYRVQ2TGxraE5IVzM3clB6UUN6YmFMVlVMZGVScFUzNTlNUFJNZTFNNjh2RV9oQmc0cmFyNmZ5NzJudTJ0S3FOSDBSb1oyQ1hOUzRWaWR2cnZ1WWstcjZrZTY2R2ZvaFV2NGF5THV4dExVWXc?oc=5",
+    "pubDate": "Tue, 08 Sep 2026 12:21:42 GMT"
+  },
+  "judgeVerdict": {
+    "scores": [
+      {
+        "index": 0,
+        "surprise": 6,
+        "specificity": 7,
+        "structure": 8,
+        "punchiness": 7,
+        "warmth": 8,
+        "freshness": 7,
+        "total": 43
+      },
+      {
+        "index": 1,
+        "surprise": 5,
+        "specificity": 5,
+        "structure": 7,
+        "punchiness": 6,
+        "warmth": 7,
+        "freshness": 7,
+        "total": 37
+      },
+      {
+        "index": 2,
+        "surprise": 7,
+        "specificity": 8,
+        "structure": 8,
+        "punchiness": 7,
+        "warmth": 7,
+        "freshness": 6,
+        "total": 43
+      },
+      {
+        "index": 3,
+        "surprise": 6,
+        "specificity": 7,
+        "structure": 7,
+        "punchiness": 6,
+        "warmth": 8,
+        "freshness": 6,
+        "total": 40
+      },
+      {
+        "index": 4,
+        "surprise": 5,
+        "specificity": 6,
+        "structure": 7,
+        "punchiness": 5,
+        "warmth": 8,
+        "freshness": 6,
+        "total": 37
+      },
+      {
+        "index": 5,
+        "surprise": 6,
+        "specificity": 7,
+        "structure": 7,
+        "punchiness": 7,
+        "warmth": 7,
+        "freshness": 6,
+        "total": 40
+      },
+      {
+        "index": 6,
+        "surprise": 6,
+        "specificity": 7,
+        "structure": 7,
+        "punchiness": 6,
+        "warmth": 8,
+        "freshness": 6,
+        "total": 40
+      },
+      {
+        "index": 7,
+        "surprise": 7,
+        "specificity": 7,
+        "structure": 8,
+        "punchiness": 7,
+        "warmth": 6,
+        "freshness": 5,
+        "total": 40
+      },
+      {
+        "index": 8,
+        "surprise": 6,
+        "specificity": 7,
+        "structure": 7,
+        "punchiness": 6,
+        "warmth": 8,
+        "freshness": 5,
+        "total": 39
+      },
+      {
+        "index": 9,
+        "surprise": 5,
+        "specificity": 6,
+        "structure": 7,
+        "punchiness": 6,
+        "warmth": 8,
+        "freshness": 6,
+        "total": 38
+      },
+      {
+        "index": 10,
+        "surprise": 8,
+        "specificity": 7,
+        "structure": 8,
+        "punchiness": 8,
+        "warmth": 6,
+        "freshness": 8,
+        "total": 45
+      },
+      {
+        "index": 11,
+        "surprise": 7,
+        "specificity": 7,
+        "structure": 8,
+        "punchiness": 7,
+        "warmth": 6,
+        "freshness": 6,
+        "total": 41
+      },
+      {
+        "index": 12,
+        "surprise": 7,
+        "specificity": 7,
+        "structure": 8,
+        "punchiness": 7,
+        "warmth": 6,
+        "freshness": 5,
+        "total": 40
+      },
+      {
+        "index": 13,
+        "surprise": 7,
+        "specificity": 8,
+        "structure": 8,
+        "punchiness": 7,
+        "warmth": 6,
+        "freshness": 6,
+        "total": 42
+      }
+    ],
+    "winnerIndex": 10,
+    "reasoning": "Candidate 10 stands out by grounding its absurdity in a tactile, vivid image (glitter-covered parcel-paving) rather than the abstract 'wellness/mindfulness' trope found in several other candidates. Its premise—using undelivered parcels as construction material—is structurally original and avoids the repetitive 'official department mandates x' formula."
+  },
+  "safetyVerdict": {
+    "verdict": "pass",
+    "reasoning": "The article is a piece of obvious, harmless, and whimsical satire about infrastructure incompetence. The named character 'Mr. Rathore' is a generic placeholder name and not an identifiable real private individual or public figure, and the image prompt is entirely generic.",
+    "flaggedIssues": []
+  }
+}
