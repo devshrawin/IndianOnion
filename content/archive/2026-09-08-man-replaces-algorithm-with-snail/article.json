@@ -1,0 +1,167 @@
+{
+  "date": "2026-09-08",
+  "publishedAt": "2026-09-08T09:00:18.305Z",
+  "topicKey": "trending-news",
+  "headline": "Local IT Manager Successfully Replaces Wife’s Social Media Feed With Live Updates Of A Slow-Moving Snail",
+  "slug": "man-replaces-algorithm-with-snail",
+  "body": "Following international trends toward allowing users to customize their digital discovery experience, local software engineer Ankit Verma has successfully hijacked his spouse’s Instagram algorithm, replacing a curated stream of lifestyle influencers with a real-time, 24-hour feed of a garden snail navigating a damp leaf.\n\n\"The algorithm was pushing her to buy artisanal ceramics and luxury skincare at 3 AM,\" explained Verma, who spent three weeks writing custom scripts to redirect her feed requests toward his backyard terrarium. \"Now, she spends her coffee breaks observing the majestic pace of a gastropod named Sheldon. Her stress levels have plummeted, and she has stopped asking me why our credit card statement includes a subscription to a 'Crystal Healing' newsletter.\"\n\nPrivacy advocates have lauded the move as the ultimate form of algorithmic sovereignty, though the snail, currently struggling to bypass a patch of dry lichen, has yet to issue a statement on its newfound role as a primary source of national content. \"I’ve managed to strip away the predatory 'engagement' metrics entirely,\" Verma added while checking the snail’s progress on his phone. \"The only thing Sheldon wants her to engage with is a slightly wilted piece of spinach.\"",
+  "caption": "Forget the 'For You' page—this man just invented the 'For The Snail' page. Total control over your feed is finally here, one mollusk at a time. #SocialMedia #Algorithms #TechNews #SnailLife (satire)",
+  "igHook": "Would you trade your entire scroll feed for a live look at a snail?",
+  "imagePrompt": "A close-up, high-definition photograph of a small brown garden snail slowly crawling across a single vibrant green leaf, captured with a shallow depth of field in a sunlit garden setting.",
+  "sourceHeadline": {
+    "title": "Australia targets social media algorithms with new user-choice rules",
+    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOQVZNWHRMYkVENUJIbzcyUkdLVnZFcENJVFk3YTh6YU5MbmpGVXBRUHBLY0lHWEtOcC16c0x3Nk9zVVRCT08xa251SXN2N2pvdkxlSVhhbjJJaUJHdWU4Y1pneWktSEc1TEJNSlZRYUh6cTNQUGZNNU1tSjA5RkQ3eWFUenRSU1dvOXRiVWVwdjJjS2djTlA0ZzNsMy1xQlltd0NpamNKRWVNbzBabDNsSkNwTm1YZ01Sek1Wa1pyd3pJU1BxMkE?oc=5",
+    "pubDate": "Tue, 08 Sep 2026 04:09:00 GMT"
+  },
+  "judgeVerdict": {
+    "scores": [
+      {
+        "index": 0,
+        "surprise": 7,
+        "specificity": 8,
+        "structure": 8,
+        "punchiness": 7,
+        "warmth": 7,
+        "freshness": 7,
+        "total": 44
+      },
+      {
+        "index": 1,
+        "surprise": 5,
+        "specificity": 6,
+        "structure": 6,
+        "punchiness": 5,
+        "warmth": 4,
+        "freshness": 5,
+        "total": 31
+      },
+      {
+        "index": 2,
+        "surprise": 6,
+        "specificity": 6,
+        "structure": 6,
+        "punchiness": 6,
+        "warmth": 3,
+        "freshness": 6,
+        "total": 33
+      },
+      {
+        "index": 3,
+        "surprise": 6,
+        "specificity": 6,
+        "structure": 7,
+        "punchiness": 6,
+        "warmth": 5,
+        "freshness": 6,
+        "total": 36
+      },
+      {
+        "index": 4,
+        "surprise": 8,
+        "specificity": 8,
+        "structure": 8,
+        "punchiness": 8,
+        "warmth": 8,
+        "freshness": 8,
+        "total": 48
+      },
+      {
+        "index": 5,
+        "surprise": 5,
+        "specificity": 6,
+        "structure": 6,
+        "punchiness": 5,
+        "warmth": 4,
+        "freshness": 5,
+        "total": 31
+      },
+      {
+        "index": 6,
+        "surprise": 6,
+        "specificity": 7,
+        "structure": 7,
+        "punchiness": 6,
+        "warmth": 7,
+        "freshness": 5,
+        "total": 38
+      },
+      {
+        "index": 7,
+        "surprise": 7,
+        "specificity": 8,
+        "structure": 7,
+        "punchiness": 7,
+        "warmth": 6,
+        "freshness": 7,
+        "total": 42
+      },
+      {
+        "index": 8,
+        "surprise": 5,
+        "specificity": 5,
+        "structure": 5,
+        "punchiness": 5,
+        "warmth": 5,
+        "freshness": 5,
+        "total": 30
+      },
+      {
+        "index": 9,
+        "surprise": 6,
+        "specificity": 7,
+        "structure": 7,
+        "punchiness": 6,
+        "warmth": 7,
+        "freshness": 6,
+        "total": 39
+      },
+      {
+        "index": 10,
+        "surprise": 7,
+        "specificity": 7,
+        "structure": 7,
+        "punchiness": 7,
+        "warmth": 6,
+        "freshness": 7,
+        "total": 41
+      },
+      {
+        "index": 11,
+        "surprise": 6,
+        "specificity": 7,
+        "structure": 7,
+        "punchiness": 6,
+        "warmth": 6,
+        "freshness": 5,
+        "total": 37
+      },
+      {
+        "index": 12,
+        "surprise": 5,
+        "specificity": 6,
+        "structure": 6,
+        "punchiness": 5,
+        "warmth": 5,
+        "freshness": 4,
+        "total": 31
+      },
+      {
+        "index": 13,
+        "surprise": 5,
+        "specificity": 6,
+        "structure": 6,
+        "punchiness": 5,
+        "warmth": 6,
+        "freshness": 4,
+        "total": 32
+      }
+    ],
+    "winnerIndex": 4,
+    "reasoning": "Candidate 4 wins by successfully centering the absurdity on a specific, warm, and visual image—the snail—which creates a genuine sense of incongruity without being overtly cynical. Unlike many others in the set that rely on generic tech-bro complaints, this piece creates a distinct narrative pivot that feels fresh and retains a deadpan tone."
+  },
+  "safetyVerdict": {
+    "verdict": "pass",
+    "reasoning": "The article uses a fictional persona ('Ankit Verma') and a humorous, harmless premise. It avoids targeting any real individual, public figure, or protected group, and the image prompt is generic and safe.",
+    "flaggedIssues": []
+  }
+}
