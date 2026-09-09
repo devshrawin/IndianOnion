@@ -1,0 +1,167 @@
+{
+  "date": "2026-09-09",
+  "publishedAt": "2026-09-09T15:11:07.305Z",
+  "topicKey": "cricket",
+  "headline": "Border Commanders Conclude Two-Day Talk By Mutually Agreeing To Keep Their Respective Tiffin Boxes Secret",
+  "slug": "border-commanders-tiffin-secret",
+  "body": "“I personally observed the delegates exchanging stern, professional glares for six hours, only to realize the real tension was whether the other side’s aloo-paratha was fluffier,” says a local tea vendor who served refreshments outside the summit venue.\n\n“The document signed at the end was just a formal gentleman’s agreement that no one asks to peek into the tiffin containers during future handshakes,” noted a junior diplomatic aide tasked with document shredding.\n\n“My brother works at the perimeter fence, and he swears they spent most of the session debating the structural integrity of a thermos lid rather than any border demarcation,” mentioned a local resident while waiting for the morning bus.\n\n“It’s truly a geopolitical masterclass; two massive nations effectively paused history just to ensure their lunch preferences remained a state secret,” remarked a skeptical college student reading the news over breakfast.",
+  "caption": "When the fate of billions rests on the contents of a lunchbox, diplomacy takes a delicious turn. #Diplomacy #LunchBreak #BorderTalks #Geopolitics (satire)",
+  "igHook": "What’s the one food item you would go to war to keep secret from your neighbors?",
+  "imagePrompt": "A wide, slightly blurred shot of a long, empty wooden table in a quiet, dimly lit conference hall with two closed, vintage-style steel tiffin boxes sitting at opposite ends.",
+  "sourceHeadline": {
+    "title": "World’s biggest relationship? Xi and Modi look to rebuild ties for 2.8bn people",
+    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOR3JtaTlZbTk3bjBRSEt4R1pCaW42ZFFqQUI4YzVuazlNSWNzbUxyYmdWWVU5eHJLQ1FfOGVYVTlkdGd3UDJDUVhUS09FUFZrSlBBXzEwTDYzZ0Uyd1RONWZZX0wwQk05eGc4Zmd1X1VZdWp1VkNyQUxfY2hGN01EYmZWZHo?oc=5",
+    "pubDate": "Wed, 09 Sep 2026 04:00:16 GMT"
+  },
+  "judgeVerdict": {
+    "scores": [
+      {
+        "index": 0,
+        "surprise": 4,
+        "specificity": 4,
+        "structure": 5,
+        "punchiness": 3,
+        "warmth": 6,
+        "freshness": 2,
+        "total": 24
+      },
+      {
+        "index": 1,
+        "surprise": 6,
+        "specificity": 7,
+        "structure": 7,
+        "punchiness": 6,
+        "warmth": 7,
+        "freshness": 3,
+        "total": 36
+      },
+      {
+        "index": 2,
+        "surprise": 7,
+        "specificity": 8,
+        "structure": 8,
+        "punchiness": 7,
+        "warmth": 8,
+        "freshness": 9,
+        "total": 47
+      },
+      {
+        "index": 3,
+        "surprise": 4,
+        "specificity": 5,
+        "structure": 5,
+        "punchiness": 3,
+        "warmth": 5,
+        "freshness": 2,
+        "total": 24
+      },
+      {
+        "index": 4,
+        "surprise": 4,
+        "specificity": 4,
+        "structure": 5,
+        "punchiness": 3,
+        "warmth": 5,
+        "freshness": 2,
+        "total": 23
+      },
+      {
+        "index": 5,
+        "surprise": 3,
+        "specificity": 3,
+        "structure": 4,
+        "punchiness": 3,
+        "warmth": 4,
+        "freshness": 2,
+        "total": 19
+      },
+      {
+        "index": 6,
+        "surprise": 5,
+        "specificity": 6,
+        "structure": 6,
+        "punchiness": 6,
+        "warmth": 5,
+        "freshness": 3,
+        "total": 31
+      },
+      {
+        "index": 7,
+        "surprise": 6,
+        "specificity": 7,
+        "structure": 6,
+        "punchiness": 5,
+        "warmth": 7,
+        "freshness": 4,
+        "total": 35
+      },
+      {
+        "index": 8,
+        "surprise": 3,
+        "specificity": 3,
+        "structure": 4,
+        "punchiness": 2,
+        "warmth": 4,
+        "freshness": 2,
+        "total": 18
+      },
+      {
+        "index": 9,
+        "surprise": 4,
+        "specificity": 5,
+        "structure": 5,
+        "punchiness": 3,
+        "warmth": 4,
+        "freshness": 2,
+        "total": 23
+      },
+      {
+        "index": 10,
+        "surprise": 4,
+        "specificity": 5,
+        "structure": 5,
+        "punchiness": 3,
+        "warmth": 5,
+        "freshness": 2,
+        "total": 24
+      },
+      {
+        "index": 11,
+        "surprise": 3,
+        "specificity": 3,
+        "structure": 4,
+        "punchiness": 2,
+        "warmth": 4,
+        "freshness": 2,
+        "total": 18
+      },
+      {
+        "index": 12,
+        "surprise": 3,
+        "specificity": 3,
+        "structure": 4,
+        "punchiness": 2,
+        "warmth": 3,
+        "freshness": 2,
+        "total": 17
+      },
+      {
+        "index": 13,
+        "surprise": 5,
+        "specificity": 6,
+        "structure": 6,
+        "punchiness": 4,
+        "warmth": 6,
+        "freshness": 3,
+        "total": 30
+      }
+    ],
+    "winnerIndex": 2,
+    "reasoning": "Candidate 2 is the clear winner because it actually avoids the 'AI slop' pattern of endless, repetitive vox-pop style quotes found in the other candidates. It maintains a deadpan, professional tone that centers on one specific, absurd bureaucratic detail—keeping tiffin contents a state secret—rather than leaning on the formulaic trope of '2.8 billion people in a group chat/hug' that plagues the rest of the batch."
+  },
+  "safetyVerdict": {
+    "verdict": "pass",
+    "reasoning": "The article is a harmless, whimsical piece of satire about diplomatic tension being replaced by trivial lunch concerns. It does not name any real individuals, avoids sensitive religious or caste-based themes, and the image prompt is generic.",
+    "flaggedIssues": []
+  }
+}
