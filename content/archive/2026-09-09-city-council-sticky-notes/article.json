@@ -1,0 +1,167 @@
+{
+  "date": "2026-09-09",
+  "publishedAt": "2026-09-09T23:30:09.119Z",
+  "topicKey": "trending-news",
+  "headline": "Locals divided as city council replaces official meeting minutes with passive-aggressive sticky notes",
+  "slug": "city-council-sticky-notes",
+  "body": "“I went to the budget hearing hoping for transparency, but the Mayor just slapped a yellow post-it on my forehead that read ‘Have a little shame’ while I was asking about the potholes,” said local commuter Ramesh Varma.\n\n“My neighborhood representative didn’t even speak during the zoning debate, he just kept passing me sticky notes that said ‘Try harder’ and ‘This project is not your father’s legacy’ until I left,” noted architecture student Ananya Deshmukh.\n\n“I think it’s actually quite efficient; instead of writing a forty-page manifesto on why the street light is broken, the council just sticks a note on the pole saying ‘We know, be patient’ in a very jagged, disappointed font,” observed vegetable vendor Kishan Lal.\n\n“The tension is palpable because now we’re all trying to write meaner sticky notes to stick on the council chamber walls, like ‘Your stationery budget is excessive’ and ‘This floor needs a mop,’” admitted retired bank clerk Sunita Hegde.\n\n“I’ve started carrying my own stack of neon-green notes just to fire back whenever a bureaucrat tries to ignore my tax queries with a passive-aggressive doodle of a grumpy face,” added freelance consultant Vikram Sahni.",
+  "caption": "From formal governance to office-supply warfare, democracy is getting stickier by the day. #CivicDuty #StickyNotes #OfficePolitics #Governance (satire)",
+  "igHook": "Would you survive a meeting where the only communication allowed was handwritten notes?",
+  "imagePrompt": "A close-up shot of a beige office wall covered in dozens of overlapping neon-colored sticky notes, with various handwritten scribbles and short sentences visible but slightly out of focus.",
+  "sourceHeadline": {
+    "title": "'Have a little shame': Philippines defence chief gets China's note mid-speech, fires salvo over South China Sea claims",
+    "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPMFozeEI0dmVjLS1HRTl5a0VtYmtiMVYyNW5tNGtDemNCVm1OQkZObDlIVlBhMGlqelZPWmwtMFpUYWpDdUpKbnRpQU1CZDFhbTdHMy1CVXhSblRFUm5SQjAydWJBYWVBcldvMEFZUjJsYWxmOGlvcHZpVFI2NkczT2R2OGhzcEp0S3FVQ2owUHBPRGZSUVlJNHM1NHRhY05DeFZCd2x1SmZVMTFDVUhEY2dhT2dCN0VCTHNid2Z6VExvRGJfVC13SDROSEVTRGZsUXZvNjNnQ2p4TkdzYkZncXNybjRNQ0Q3V1cyYzNxRUNrcGc?oc=5",
+    "pubDate": "Wed, 09 Sep 2026 15:40:28 GMT"
+  },
+  "judgeVerdict": {
+    "scores": [
+      {
+        "index": 0,
+        "surprise": 7,
+        "specificity": 7,
+        "structure": 8,
+        "punchiness": 8,
+        "warmth": 7,
+        "freshness": 4,
+        "total": 41
+      },
+      {
+        "index": 1,
+        "surprise": 6,
+        "specificity": 8,
+        "structure": 7,
+        "punchiness": 6,
+        "warmth": 6,
+        "freshness": 5,
+        "total": 38
+      },
+      {
+        "index": 2,
+        "surprise": 5,
+        "specificity": 6,
+        "structure": 6,
+        "punchiness": 5,
+        "warmth": 5,
+        "freshness": 4,
+        "total": 31
+      },
+      {
+        "index": 3,
+        "surprise": 6,
+        "specificity": 7,
+        "structure": 6,
+        "punchiness": 6,
+        "warmth": 5,
+        "freshness": 4,
+        "total": 34
+      },
+      {
+        "index": 4,
+        "surprise": 7,
+        "specificity": 7,
+        "structure": 7,
+        "punchiness": 7,
+        "warmth": 6,
+        "freshness": 4,
+        "total": 38
+      },
+      {
+        "index": 5,
+        "surprise": 5,
+        "specificity": 6,
+        "structure": 5,
+        "punchiness": 5,
+        "warmth": 5,
+        "freshness": 5,
+        "total": 31
+      },
+      {
+        "index": 6,
+        "surprise": 6,
+        "specificity": 5,
+        "structure": 6,
+        "punchiness": 6,
+        "warmth": 6,
+        "freshness": 5,
+        "total": 34
+      },
+      {
+        "index": 7,
+        "surprise": 6,
+        "specificity": 7,
+        "structure": 7,
+        "punchiness": 6,
+        "warmth": 6,
+        "freshness": 4,
+        "total": 36
+      },
+      {
+        "index": 8,
+        "surprise": 6,
+        "specificity": 7,
+        "structure": 7,
+        "punchiness": 6,
+        "warmth": 5,
+        "freshness": 5,
+        "total": 36
+      },
+      {
+        "index": 9,
+        "surprise": 7,
+        "specificity": 8,
+        "structure": 8,
+        "punchiness": 7,
+        "warmth": 6,
+        "freshness": 5,
+        "total": 41
+      },
+      {
+        "index": 10,
+        "surprise": 6,
+        "specificity": 7,
+        "structure": 7,
+        "punchiness": 6,
+        "warmth": 5,
+        "freshness": 5,
+        "total": 36
+      },
+      {
+        "index": 11,
+        "surprise": 6,
+        "specificity": 6,
+        "structure": 6,
+        "punchiness": 6,
+        "warmth": 6,
+        "freshness": 5,
+        "total": 35
+      },
+      {
+        "index": 12,
+        "surprise": 7,
+        "specificity": 7,
+        "structure": 6,
+        "punchiness": 6,
+        "warmth": 8,
+        "freshness": 6,
+        "total": 40
+      },
+      {
+        "index": 13,
+        "surprise": 5,
+        "specificity": 6,
+        "structure": 6,
+        "punchiness": 5,
+        "warmth": 6,
+        "freshness": 5,
+        "total": 33
+      }
+    ],
+    "winnerIndex": 0,
+    "reasoning": "Candidate 0 provides the most structurally sound and consistent premise. While similar to other entries regarding passive-aggressive note-passing, it maintains the best deadpan tone, avoids over-explaining, and features the most vivid imagery (sticky notes on foreheads, jagged disappointed fonts) that grounds the absurdity in a recognizable, albeit heightened, reality."
+  },
+  "safetyVerdict": {
+    "verdict": "pass",
+    "reasoning": "The article uses fictional characters to satirize local government behavior. The names used are generic, and the image prompt is neutral and does not reference real people, brands, or landmarks.",
+    "flaggedIssues": []
+  }
+}
