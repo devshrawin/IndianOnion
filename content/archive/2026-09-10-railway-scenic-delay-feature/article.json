@@ -1,0 +1,167 @@
+{
+  "date": "2026-09-10",
+  "publishedAt": "2026-09-10T01:55:41.804Z",
+  "topicKey": "trending-news",
+  "headline": "Railway Ministry Announces New 'Scenic Delay' Feature That Adds Five Hours To Journeys For Uninterrupted Sunset Viewing",
+  "slug": "railway-scenic-delay-feature",
+  "body": "Q: With the government just greenlighting a massive Rs 20,804 crore railway expansion, how do passengers react to the news of the new 'Sunset Surcharge' feature?\n\nA: It is an investment in mindfulness, really. We found that passengers were far too hurried. The new track alignment includes mandatory 'pause zones' in remote fields specifically timed to allow travelers to watch the sunset for 300 consecutive minutes while the engine undergoes a mandatory cooling-off period.\n\nQ: Does the massive budgetary allocation cover the extra snacks required for a five-hour stationary window?\n\nA: Absolutely not. The budget is strictly for the infrastructure required to stop the train smoothly in the middle of nowhere. If you want tea while staring at the horizon, that is a private luxury service we are currently auctioning off to mobile chai vendors who have to sprint alongside the halted locomotive.\n\nQ: Is there any way for commuters to opt out of this, perhaps to actually reach their destination on time?\n\nA: Opt-out is available, but it requires filing a formal 'Urgency Affidavit' at three different regional depots, which, ironically, can only be reached by taking the scenic route.",
+  "caption": "The new transit experience is finally here, and it's all about slowing down to watch the world go by—literally. #IndianRailways #SlowTravel #ScenicRoute #InfrastructureGoals (satire)",
+  "igHook": "Would you pay extra to be stranded in a field just to watch the sunset?",
+  "imagePrompt": "A wide, slightly blurred view through a train window looking out at a vast, empty landscape during golden hour with the edge of a plastic train seat visible in the foreground.",
+  "sourceHeadline": {
+    "title": "Cabinet approves Rs 20,804 crore railway projects across nine states",
+    "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNNnFPV0huYzRJVDRYd1NlZEdyVlJES1hWMW13QmNmRWZITERlalh5RGZhcVNMWl9TOHZZZFNnWlBPUjd3N1JXS0NxbzBkbV9tcGFNcHZDazR0cERwejJ5VHJvd0VtaWtpM2s0ZXhZM1pGWGREVkcxUFdub3BXQ2ZpMkxkV2c2QWk1QThpUkV0b2hQbENtRThnWjY2SzJrdDNyamxzbUY1TE10ZFdva3N6SC11OHBfZFZLcmNIMU5peXg5UEM3ckI5bXVXU2VqMkZ3ekZiSEJYbk9KU3RxbVdtR1oxY0hKdy1l?oc=5",
+    "pubDate": "Wed, 09 Sep 2026 11:32:00 GMT"
+  },
+  "judgeVerdict": {
+    "scores": [
+      {
+        "index": 0,
+        "surprise": 8,
+        "specificity": 8,
+        "structure": 9,
+        "punchiness": 8,
+        "warmth": 7,
+        "freshness": 7,
+        "total": 47
+      },
+      {
+        "index": 1,
+        "surprise": 4,
+        "specificity": 5,
+        "structure": 5,
+        "punchiness": 4,
+        "warmth": 4,
+        "freshness": 4,
+        "total": 26
+      },
+      {
+        "index": 2,
+        "surprise": 5,
+        "specificity": 5,
+        "structure": 5,
+        "punchiness": 5,
+        "warmth": 3,
+        "freshness": 3,
+        "total": 26
+      },
+      {
+        "index": 3,
+        "surprise": 7,
+        "specificity": 7,
+        "structure": 7,
+        "punchiness": 7,
+        "warmth": 7,
+        "freshness": 6,
+        "total": 41
+      },
+      {
+        "index": 4,
+        "surprise": 6,
+        "specificity": 6,
+        "structure": 6,
+        "punchiness": 6,
+        "warmth": 6,
+        "freshness": 5,
+        "total": 35
+      },
+      {
+        "index": 5,
+        "surprise": 7,
+        "specificity": 6,
+        "structure": 6,
+        "punchiness": 6,
+        "warmth": 4,
+        "freshness": 5,
+        "total": 34
+      },
+      {
+        "index": 6,
+        "surprise": 4,
+        "specificity": 4,
+        "structure": 5,
+        "punchiness": 4,
+        "warmth": 3,
+        "freshness": 3,
+        "total": 23
+      },
+      {
+        "index": 7,
+        "surprise": 5,
+        "specificity": 5,
+        "structure": 5,
+        "punchiness": 5,
+        "warmth": 4,
+        "freshness": 4,
+        "total": 28
+      },
+      {
+        "index": 8,
+        "surprise": 8,
+        "specificity": 7,
+        "structure": 8,
+        "punchiness": 7,
+        "warmth": 5,
+        "freshness": 7,
+        "total": 42
+      },
+      {
+        "index": 9,
+        "surprise": 7,
+        "specificity": 6,
+        "structure": 6,
+        "punchiness": 6,
+        "warmth": 6,
+        "freshness": 6,
+        "total": 37
+      },
+      {
+        "index": 10,
+        "surprise": 5,
+        "specificity": 5,
+        "structure": 5,
+        "punchiness": 5,
+        "warmth": 4,
+        "freshness": 3,
+        "total": 27
+      },
+      {
+        "index": 11,
+        "surprise": 6,
+        "specificity": 6,
+        "structure": 6,
+        "punchiness": 6,
+        "warmth": 5,
+        "freshness": 4,
+        "total": 33
+      },
+      {
+        "index": 12,
+        "surprise": 4,
+        "specificity": 4,
+        "structure": 5,
+        "punchiness": 4,
+        "warmth": 3,
+        "freshness": 3,
+        "total": 23
+      },
+      {
+        "index": 13,
+        "surprise": 6,
+        "specificity": 6,
+        "structure": 6,
+        "punchiness": 6,
+        "warmth": 5,
+        "freshness": 5,
+        "total": 34
+      }
+    ],
+    "winnerIndex": 0,
+    "reasoning": "Candidate 0 provides the most cohesive and deadpan satire. It turns the common frustration of railway delays into a deliberate 'feature' of mindfulness, following the inverted-pyramid structure perfectly and avoiding the repetitive 'gold-plating' trope that plagues the other candidates in this batch."
+  },
+  "safetyVerdict": {
+    "verdict": "pass",
+    "reasoning": "The article uses satire to mock bureaucratic inefficiency and railway delays without targeting specific real-life individuals, groups, or religions. The image prompt is generic and avoids referencing real entities or identifiable people.",
+    "flaggedIssues": []
+  }
+}
