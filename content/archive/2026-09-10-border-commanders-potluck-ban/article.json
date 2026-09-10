@@ -1,0 +1,167 @@
+{
+  "date": "2026-09-10",
+  "publishedAt": "2026-09-10T08:17:30.509Z",
+  "topicKey": "cricket",
+  "headline": "Border commanders agree to host friendly regional potluck but forbid anyone from actually eating",
+  "slug": "border-commanders-potluck-ban",
+  "body": "“I spent three days hand-rolling these authentic vegetable momos, but the memo explicitly states the summit is strictly for ‘visual caloric exchange’ only,” says local canteen chef Rahul Kumar.\n\n“My diplomatic strategy was to offer a samosa as a peace gesture, but my supervisor warned that touching the crust could be interpreted as an unauthorized expansion of our territorial appetite,” notes a nervous junior border scout.\n\n“It’s a bit strange to host a dinner where we all just stare at the steam rising from the dal makhani for two hours, but I suppose looking is the safest way to maintain our current frozen stance,” observes a local villager who traveled to watch the event.\n\n“I brought a bag of sweets to share, but I’ve been instructed to hold them at a distance of precisely three feet from the visiting delegation to ensure there’s no accidental cultural contamination via sugar,” mentions a border-area school teacher.\n\n“The negotiations were a success because we all agreed that the biryani looks perfectly seasoned, yet we all left with our hunger—and our borders—exactly as they were before the meal,” remarks a diplomatic analyst.",
+  "caption": "Diplomacy is best served cold, or at least, left completely untouched in a tiffin box on the table. Would you attend a dinner if you weren't allowed to eat? #Diplomacy #BorderTalks #PotluckProblems #IndiaChina #Satire (satire)",
+  "igHook": "Would you attend a potluck if you were strictly forbidden from taking a single bite?",
+  "imagePrompt": "A wide-angle, neutral shot of a long conference table set with various covered metal tiffin boxes and plates of food, with two groups of men in uniforms sitting at opposite ends, looking at the food without touching it.",
+  "sourceHeadline": {
+    "title": "Xi's India visit to help diplomatic thaw, but business ties bound by suspicion",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTE5zWFZ4Z2JRY1VhbF94Z01fZFlvRDRvVFFjMHpwQnN3RnpUN1RHZW1kSFJiWDM2RnZadHhRVy0yOS1xcU85UEZucEN0ZHZ1YXdtYzE1WW9NQ2lQcEtZZEN0VW5qQTk1emRJT2hNSXV1SmRkdGVScHQwX1p2NkpiRlVpZ2kxYVJtbF96U2NjVC05Nmg0TEhBa1lJUVUyX3QyOWQzdVd0S1g5UjZibVNHODRyNDdLSGli?oc=5",
+    "pubDate": "Thu, 10 Sep 2026 02:20:00 GMT"
+  },
+  "judgeVerdict": {
+    "scores": [
+      {
+        "index": 0,
+        "surprise": 6,
+        "specificity": 7,
+        "structure": 8,
+        "punchiness": 7,
+        "warmth": 5,
+        "freshness": 4,
+        "total": 37
+      },
+      {
+        "index": 1,
+        "surprise": 3,
+        "specificity": 5,
+        "structure": 4,
+        "punchiness": 3,
+        "warmth": 6,
+        "freshness": 2,
+        "total": 23
+      },
+      {
+        "index": 2,
+        "surprise": 2,
+        "specificity": 4,
+        "structure": 3,
+        "punchiness": 2,
+        "warmth": 5,
+        "freshness": 2,
+        "total": 18
+      },
+      {
+        "index": 3,
+        "surprise": 7,
+        "specificity": 8,
+        "structure": 9,
+        "punchiness": 8,
+        "warmth": 6,
+        "freshness": 5,
+        "total": 43
+      },
+      {
+        "index": 4,
+        "surprise": 5,
+        "specificity": 7,
+        "structure": 6,
+        "punchiness": 5,
+        "warmth": 7,
+        "freshness": 3,
+        "total": 33
+      },
+      {
+        "index": 5,
+        "surprise": 4,
+        "specificity": 5,
+        "structure": 5,
+        "punchiness": 4,
+        "warmth": 4,
+        "freshness": 2,
+        "total": 24
+      },
+      {
+        "index": 6,
+        "surprise": 4,
+        "specificity": 6,
+        "structure": 5,
+        "punchiness": 4,
+        "warmth": 5,
+        "freshness": 2,
+        "total": 26
+      },
+      {
+        "index": 7,
+        "surprise": 4,
+        "specificity": 7,
+        "structure": 6,
+        "punchiness": 5,
+        "warmth": 6,
+        "freshness": 2,
+        "total": 30
+      },
+      {
+        "index": 8,
+        "surprise": 2,
+        "specificity": 4,
+        "structure": 3,
+        "punchiness": 3,
+        "warmth": 4,
+        "freshness": 2,
+        "total": 18
+      },
+      {
+        "index": 9,
+        "surprise": 8,
+        "specificity": 9,
+        "structure": 9,
+        "punchiness": 9,
+        "warmth": 7,
+        "freshness": 7,
+        "total": 49
+      },
+      {
+        "index": 10,
+        "surprise": 2,
+        "specificity": 4,
+        "structure": 3,
+        "punchiness": 3,
+        "warmth": 4,
+        "freshness": 1,
+        "total": 17
+      },
+      {
+        "index": 11,
+        "surprise": 3,
+        "specificity": 5,
+        "structure": 5,
+        "punchiness": 4,
+        "warmth": 4,
+        "freshness": 2,
+        "total": 23
+      },
+      {
+        "index": 12,
+        "surprise": 3,
+        "specificity": 5,
+        "structure": 5,
+        "punchiness": 4,
+        "warmth": 4,
+        "freshness": 2,
+        "total": 23
+      },
+      {
+        "index": 13,
+        "surprise": 4,
+        "specificity": 5,
+        "structure": 6,
+        "punchiness": 5,
+        "warmth": 3,
+        "freshness": 3,
+        "total": 26
+      }
+    ],
+    "winnerIndex": 9,
+    "reasoning": "Candidate 9 stands out by taking the 'diplomatic thaw' trope and applying a bizarre, specific restraint—'visual caloric exchange'—that creates immediate, deadpan imagery of diplomats staring at food. It avoids the AI-tell of formulaic, repetitive quotes by providing a series of distinct perspectives that build on the absurdity of the premise rather than just restating it."
+  },
+  "safetyVerdict": {
+    "verdict": "pass",
+    "reasoning": "The article uses a generic, anonymous individual ('Rahul Kumar' is a very common name and the character is a fictional canteen chef) and focuses on the absurdity of border politics through a harmless metaphor. It avoids real public figures, specific political entities, or hate speech.",
+    "flaggedIssues": []
+  }
+}
