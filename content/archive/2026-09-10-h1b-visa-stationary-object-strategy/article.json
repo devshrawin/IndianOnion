@@ -1,0 +1,167 @@
+{
+  "date": "2026-09-10",
+  "publishedAt": "2026-09-10T19:09:21.699Z",
+  "topicKey": "trending-news",
+  "headline": "Laid-off H-1B visa holder successfully switches career to 'professional stationary object' to avoid immediate deportation",
+  "slug": "h1b-visa-stationary-object-strategy",
+  "body": "After learning that the 60-day grace period for unemployed visa holders has been revoked, a former software engineer has permanently anchored himself to a park bench in Palo Alto to qualify as a piece of city infrastructure. By effectively transitioning into a 'municipal fixture,' he claims he is no longer an employee subject to labor laws, but rather a permanent civic installation that technically doesn't require a work permit to exist.",
+  "caption": "Living life as a park bench is definitely one way to handle the new visa rules. Would you choose wood or iron? #H1B #WorkVisa #ImmigrationNews #Satire (satire)",
+  "igHook": "Would you rather be a park bench or a mailbox if it meant you could stay in the country?",
+  "imagePrompt": "A wide-angle, slightly blurry shot of an empty wooden park bench situated on a quiet, tree-lined sidewalk in an urban tech hub, captured during the golden hour.",
+  "sourceHeadline": {
+    "title": "H-1B visa holders won't get 60-day grace period after job loss as Trump administration revises rule | World News",
+    "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxONUtJOGZNUEM5RHJOZmZUT0VXNlA3OWlXRFlmbng0MnkyS0JlS056TEY1bE9uanhOMWo0cm01SDNkNDBPaEVoUENRUjJITmtkdkN2dFJoS0lvTmQ2c3dNRm9HN0dXQXVPcG9zb1FlT1lJaTM2VmRhVUVzODY0VlRTeTlCNzVVenBaU2FtXzMwemhIbWI1bzQ2SmktM3NsSGJJT2x0Z19zeWdkV1pZWmF3SjBqdlNSbXRxWnplTzZrVllacEsxWlFhamI1OS0wLUdDZEhubnN5dXpoM2RUWS1RYWEyMEdkQWVXeGd4aU5rRjQtQmdRZTlCdEJLcnQzTkVHUWtxYW51MDM?oc=5",
+    "pubDate": "Thu, 10 Sep 2026 17:38:31 GMT"
+  },
+  "judgeVerdict": {
+    "scores": [
+      {
+        "index": 0,
+        "surprise": 5,
+        "specificity": 4,
+        "structure": 5,
+        "punchiness": 5,
+        "warmth": 4,
+        "freshness": 4,
+        "total": 27
+      },
+      {
+        "index": 1,
+        "surprise": 5,
+        "specificity": 5,
+        "structure": 5,
+        "punchiness": 6,
+        "warmth": 3,
+        "freshness": 4,
+        "total": 28
+      },
+      {
+        "index": 2,
+        "surprise": 7,
+        "specificity": 5,
+        "structure": 6,
+        "punchiness": 7,
+        "warmth": 5,
+        "freshness": 6,
+        "total": 36
+      },
+      {
+        "index": 3,
+        "surprise": 5,
+        "specificity": 5,
+        "structure": 5,
+        "punchiness": 5,
+        "warmth": 4,
+        "freshness": 3,
+        "total": 27
+      },
+      {
+        "index": 4,
+        "surprise": 6,
+        "specificity": 5,
+        "structure": 6,
+        "punchiness": 6,
+        "warmth": 5,
+        "freshness": 5,
+        "total": 33
+      },
+      {
+        "index": 5,
+        "surprise": 5,
+        "specificity": 5,
+        "structure": 5,
+        "punchiness": 5,
+        "warmth": 3,
+        "freshness": 4,
+        "total": 27
+      },
+      {
+        "index": 6,
+        "surprise": 4,
+        "specificity": 4,
+        "structure": 5,
+        "punchiness": 4,
+        "warmth": 3,
+        "freshness": 2,
+        "total": 22
+      },
+      {
+        "index": 7,
+        "surprise": 8,
+        "specificity": 8,
+        "structure": 8,
+        "punchiness": 8,
+        "warmth": 6,
+        "freshness": 7,
+        "total": 45
+      },
+      {
+        "index": 8,
+        "surprise": 4,
+        "specificity": 6,
+        "structure": 5,
+        "punchiness": 5,
+        "warmth": 4,
+        "freshness": 3,
+        "total": 27
+      },
+      {
+        "index": 9,
+        "surprise": 5,
+        "specificity": 5,
+        "structure": 6,
+        "punchiness": 5,
+        "warmth": 3,
+        "freshness": 4,
+        "total": 28
+      },
+      {
+        "index": 10,
+        "surprise": 5,
+        "specificity": 6,
+        "structure": 5,
+        "punchiness": 5,
+        "warmth": 4,
+        "freshness": 4,
+        "total": 29
+      },
+      {
+        "index": 11,
+        "surprise": 5,
+        "specificity": 6,
+        "structure": 5,
+        "punchiness": 5,
+        "warmth": 3,
+        "freshness": 4,
+        "total": 28
+      },
+      {
+        "index": 12,
+        "surprise": 5,
+        "specificity": 6,
+        "structure": 5,
+        "punchiness": 5,
+        "warmth": 4,
+        "freshness": 4,
+        "total": 29
+      },
+      {
+        "index": 13,
+        "surprise": 7,
+        "specificity": 7,
+        "structure": 7,
+        "punchiness": 7,
+        "warmth": 5,
+        "freshness": 6,
+        "total": 39
+      }
+    ],
+    "winnerIndex": 7,
+    "reasoning": "Candidate 7 excels by grounding its absurdity in a recognizable, vivid image—a software engineer anchor-living as a park bench—which feels like a refreshing, distinct angle compared to the repetitive 'packing bags' or 'living in a bag' premises. It maintains a perfect deadpan tone and offers a specific, imaginative legal loophole that feels both surreal and uniquely satirical."
+  },
+  "safetyVerdict": {
+    "verdict": "pass",
+    "reasoning": "The article uses absurd, satirical premises to comment on immigration policy without targeting specific individuals, protected groups, or making defamatory claims. The image prompt adheres to safety guidelines by describing a generic scene without real identifiers.",
+    "flaggedIssues": []
+  }
+}
